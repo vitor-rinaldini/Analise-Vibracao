@@ -1,5 +1,0 @@
-.venv
-.gitignore
-dataset
-preprocessing
-./util.ipynb
